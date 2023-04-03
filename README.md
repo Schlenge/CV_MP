@@ -1,2 +1,2 @@
 # CV_MP
-CV pentru manager proiect
+CV pentru competențe digitale
